@@ -84,7 +84,7 @@ sub AUTOLOAD {
 
 # tie returns the object, so the value returned to require will be true.
 tie %Config, 'Config', {
-    archlibexp => 'F:\\WebsiteAnimeFestival\\perl\\lib',
+    archlibexp => 'H:\\Andrew_Web\\WebsiteAnimeFestival\\perl\\lib',
     archname => 'MSWin32-x64-multi-thread',
     cc => 'gcc',
     d_readlink => undef,
@@ -96,14 +96,14 @@ tie %Config, 'Config', {
     inc_version_list => '',
     intsize => '4',
     ldlibpthname => '',
-    libpth => 'F:\\WebsiteAnimeFestival\\c\\lib \\xampp\\c\\x86_64-w64-mingw32\\lib \\xampp\\c\\lib\\gcc\\x86_64-w64-mingw32\\8.3.0',
+    libpth => 'H:\\Andrew_Web\\WebsiteAnimeFestival\\c\\lib \\xampp\\c\\x86_64-w64-mingw32\\lib \\xampp\\c\\lib\\gcc\\x86_64-w64-mingw32\\8.3.0',
     osname => 'MSWin32',
     osvers => '10.0.19042.746',
     path_sep => ';',
-    privlibexp => 'F:\\WebsiteAnimeFestival\\perl\\lib',
-    scriptdir => 'F:\\WebsiteAnimeFestival\\perl\\bin',
-    sitearchexp => 'F:\\WebsiteAnimeFestival\\perl\\site\\lib',
-    sitelibexp => 'F:\\WebsiteAnimeFestival\\perl\\site\\lib',
+    privlibexp => 'H:\\Andrew_Web\\WebsiteAnimeFestival\\perl\\lib',
+    scriptdir => 'H:\\Andrew_Web\\WebsiteAnimeFestival\\perl\\bin',
+    sitearchexp => 'H:\\Andrew_Web\\WebsiteAnimeFestival\\perl\\site\\lib',
+    sitelibexp => 'H:\\Andrew_Web\\WebsiteAnimeFestival\\perl\\site\\lib',
     so => 'dll',
     useithreads => 'define',
     usevendorprefix => 'define',

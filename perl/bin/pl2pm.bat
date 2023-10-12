@@ -26,7 +26,7 @@ goto endofperl
 @rem ';
 #!perl
 #line 29
-    eval 'exec F:\WebsiteAnimeFestival\perl\bin\perl.exe -S $0 ${1+"$@"}'
+    eval 'exec H:\Andrew_Web\WebsiteAnimeFestival\perl\bin\perl.exe -S $0 ${1+"$@"}'
 	if $running_under_some_shell;
 
 =head1 NAME
