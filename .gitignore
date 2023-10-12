@@ -80,5 +80,8 @@ properties.ini
 service.exe
 setup_*
 test*
-unistall*
+uninstall*
 xampp*
+xampp_*
+xampp-*
+xampp-control.exe
