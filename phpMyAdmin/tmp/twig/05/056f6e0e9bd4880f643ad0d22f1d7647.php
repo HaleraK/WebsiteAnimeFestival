@@ -414,6 +414,6 @@ echo _pgettext("Create new user", "New");
 
     public function getSourceContext()
     {
-        return new Source("", "database/privileges/index.twig", "E:\\XAMPPServer\\phpMyAdmin\\templates\\database\\privileges\\index.twig");
+        return new Source("", "database/privileges/index.twig", "F:\\WebsiteAnimeFestival\\phpMyAdmin\\templates\\database\\privileges\\index.twig");
     }
 }

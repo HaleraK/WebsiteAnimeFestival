@@ -278,6 +278,6 @@ echo _gettext("SQL upload");
 
     public function getSourceContext()
     {
-        return new Source("", "navigation/main.twig", "E:\\XAMPPServer\\phpMyAdmin\\templates\\navigation\\main.twig");
+        return new Source("", "navigation/main.twig", "F:\\WebsiteAnimeFestival\\phpMyAdmin\\templates\\navigation\\main.twig");
     }
 }

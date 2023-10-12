@@ -84,7 +84,7 @@ sub AUTOLOAD {
 
 # tie returns the object, so the value returned to require will be true.
 tie %Config, 'Config', {
-    archlibexp => 'E:\\XAMPPServer\\perl\\lib',
+    archlibexp => 'F:\\WebsiteAnimeFestival\\perl\\lib',
     archname => 'MSWin32-x64-multi-thread',
     cc => 'gcc',
     d_readlink => undef,
@@ -96,14 +96,14 @@ tie %Config, 'Config', {
     inc_version_list => '',
     intsize => '4',
     ldlibpthname => '',
-    libpth => 'E:\\XAMPPServer\\c\\lib \\xampp\\c\\x86_64-w64-mingw32\\lib \\xampp\\c\\lib\\gcc\\x86_64-w64-mingw32\\8.3.0',
+    libpth => 'F:\\WebsiteAnimeFestival\\c\\lib \\xampp\\c\\x86_64-w64-mingw32\\lib \\xampp\\c\\lib\\gcc\\x86_64-w64-mingw32\\8.3.0',
     osname => 'MSWin32',
     osvers => '10.0.19042.746',
     path_sep => ';',
-    privlibexp => 'E:\\XAMPPServer\\perl\\lib',
-    scriptdir => 'E:\\XAMPPServer\\perl\\bin',
-    sitearchexp => 'E:\\XAMPPServer\\perl\\site\\lib',
-    sitelibexp => 'E:\\XAMPPServer\\perl\\site\\lib',
+    privlibexp => 'F:\\WebsiteAnimeFestival\\perl\\lib',
+    scriptdir => 'F:\\WebsiteAnimeFestival\\perl\\bin',
+    sitearchexp => 'F:\\WebsiteAnimeFestival\\perl\\site\\lib',
+    sitelibexp => 'F:\\WebsiteAnimeFestival\\perl\\site\\lib',
     so => 'dll',
     useithreads => 'define',
     usevendorprefix => 'define',

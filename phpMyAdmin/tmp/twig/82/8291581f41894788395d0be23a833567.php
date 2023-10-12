@@ -215,6 +215,6 @@ echo _pgettext("Last page", "End");
 
     public function getSourceContext()
     {
-        return new Source("", "list_navigator.twig", "E:\\XAMPPServer\\phpMyAdmin\\templates\\list_navigator.twig");
+        return new Source("", "list_navigator.twig", "F:\\WebsiteAnimeFestival\\phpMyAdmin\\templates\\list_navigator.twig");
     }
 }

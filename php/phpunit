@@ -1,4 +1,4 @@
-#!E:\XAMPPServer\php\.\php.exe
+#!F:\WebsiteAnimeFestival\php\.\php.exe
 <?php
 /* PHPUnit
  *
@@ -37,10 +37,10 @@
 
 define('PHPUnit_MAIN_METHOD', 'PHPUnit_TextUI_Command::main');
 
-if (strpos('E:\XAMPPServer\php\.\php.exe', '@php_bin') === 0) {
+if (strpos('F:\WebsiteAnimeFestival\php\.\php.exe', '@php_bin') === 0) {
     require dirname(__FILE__) . DIRECTORY_SEPARATOR . 'PHPUnit' . DIRECTORY_SEPARATOR . 'Autoload.php';
 } else {
-    require 'E:\XAMPPServer\php\pear' . DIRECTORY_SEPARATOR . 'PHPUnit' . DIRECTORY_SEPARATOR . 'Autoload.php';
+    require 'F:\WebsiteAnimeFestival\php\pear' . DIRECTORY_SEPARATOR . 'PHPUnit' . DIRECTORY_SEPARATOR . 'Autoload.php';
 }
 
 PHPUnit_TextUI_Command::main();

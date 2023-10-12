@@ -1,4 +1,4 @@
-#!"E:\XAMPPServer\perl\bin\perl.exe"
+#!"F:\WebsiteAnimeFestival\perl\bin\perl.exe"
 
 print "Content-type: text/html\n\n";
 print '<html>';
