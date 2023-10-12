@@ -71,7 +71,7 @@ wp-config.php
 apache*
 catalina*
 ctlscript*
-filezila*
+filezilla_*
 killprocess*
 mercury*
 mysql_start*
@@ -81,7 +81,10 @@ service.exe
 setup_*
 test*
 uninstall*
+uninstall.dat
+uninstall.exe
 xampp*
 xampp_*
 xampp-*
 xampp-control.exe
+xampp-control.ini
